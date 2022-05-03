@@ -26,7 +26,7 @@
 1. 「インストール手順」で展開したディレクトリの DLDateManager.exe をダブルクリックして実行します。
 2. [情報保存]ボタンを押してください。
       <p>
-        <img src="https://github.com/ranmd9a/DLDateManager/wiki/images/mainpage.png" alt="mainpage" width="50%"/>
+        <img src="https://github.com/ranmd9a/DLDateManager/wiki/images/mainpage.png" alt="mainpage" width="75%"/>
       </p>
 
 3. [CustomLevels フォルダを指定してください。]という画面が表示されます。
