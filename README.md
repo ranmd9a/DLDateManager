@@ -11,8 +11,9 @@
 - バグがあるかもしれないので、使用前に適宜バックアップをお願いいたします。
 
 ## インストール手順
-1. .NET 6.0 Runtime が必要なので、事前に以下の「デスクトップアプリを実行する」からランタイムをダウンロードしてインストールしておいてください。
+1. .NET 6.0 Runtime が必要なので、事前に以下の「デスクトップアプリを実行する」から「x64」のランタイムをダウンロードしてインストールしておいてください。  
    https://dotnet.microsoft.com/ja-jp/download/dotnet/6.0/runtime
+   - このツールはとりあえず 64bit版(x64) のみ対象としています。
 2. [Release ページ](https://github.com/ranmd9a/DLDateManager/releases/latest)から最新の DLDateManager_x64_v0.0.x.zip をダウンロードして、任意のディレクトリに展開してください。
 
 ## アンインストール手順
