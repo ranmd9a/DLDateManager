@@ -13,7 +13,7 @@
 ## インストール手順
 1. .NET 6.0 Runtime が必要なので、事前に以下の「デスクトップアプリを実行する」からランタイムをダウンロードしてインストールしておいてください。
    https://dotnet.microsoft.com/ja-jp/download/dotnet/6.0/runtime
-2. [Release ページ](https://github.com/ranmd9a/DLDateManager/releases/latest)から最新の DLDateManager_v0.0.x.zip をダウンロードして、任意のディレクトリに展開してください。
+2. [Release ページ](https://github.com/ranmd9a/DLDateManager/releases/latest)から最新の DLDateManager_x64_v0.0.x.zip をダウンロードして、任意のディレクトリに展開してください。
 
 ## アンインストール手順
 1. 上記で展開したディレクトリごと削除してください。  
